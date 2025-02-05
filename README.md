@@ -1,1 +1,1 @@
-# flipper-zero
+# flipper-zero wifi script (copilot)
