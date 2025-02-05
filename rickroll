@@ -1,0 +1,18 @@
+# This script is for the Flipper Zero to emulate a USB keyboard.
+
+# Open a new tab in the default browser and navigate to the Rick Astley video on YouTube.
+# Make sure the Flipper Zero is set to Keyboard mode before running this script.
+
+# Delay to allow the user to switch to the target device
+DELAY 5000
+
+# Open the run dialog (Windows + R)
+GUI r
+DELAY 500
+
+# Type the command to open the default web browser
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+
+# Press Enter to execute the command
+ENTER
