@@ -1,0 +1,14 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hahaha, a Flipper Zero itt van! 😄
+ENTER
+DELAY 500
+STRING Hahaha, a Flipper Zero itt van! 😄
+ENTER
+DELAY 500
+STRING Hahaha, a Flipper Zero itt van! 😄
+ENTER
